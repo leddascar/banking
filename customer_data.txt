@@ -1,1 +1,3 @@
 Username 1: {'client_name': 'Client 1', 'address': 'address1', 'phone_number': '11111111', 'password': 'password1', 'client_number': 1}
+Username 2: {'client_name': 'Client 2', 'address': 'address2', 'phone_number': '2222222', 'password': 'password2', 'client_number': 2}
+Username 3: {'client_name': 'Client 3', 'address': 'address3', 'phone_number': '33333333', 'password': 'password3', 'client_number': 3}
